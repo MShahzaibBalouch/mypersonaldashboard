@@ -1,0 +1,88 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 50px;
+  background-color: #06292d;
+
+  padding: 20px;
+}
+
+.sidebar-icon {
+  margin-right: 10px;
+  color: #fdfdfd !important;
+}
+
+.d-flex {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  word-spacing: 30px;
+}
+
+.logo {
+  height: 30px !important;
+  width: 30px !important;
+  margin-left: -10px !important;
+  margin-top: -10px;
+}
+
+.topbar-icon {
+  height: auto;
+  width: 1rem;
+  color: rgb(67, 66, 66) !important;
+  margin: 0.5rem;
+}
+
+.topbar-profile {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.search-area {
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  top: 2px;
+  right: 3px;
+}
+
+.br-2 {
+  border-radius: 0.3rem;
+  padding-left: 10px;
+  height: 2.2rem;
+  width: auto;
+}
+
+.topbar-container {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.topbar {
+  height: 5rem;
+}
+
+.message-whatsapp-wrapper {
+  height: 2.2rem;
+  width: 2.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #349daa;
+
+  padding: 1px;
+  border-radius: 5px;
+}
+
+.message-whatsapp-wrapper .topbar-icon {
+  height: auto;
+  width: 1rem !important;
+  color: #fff !important;
+}

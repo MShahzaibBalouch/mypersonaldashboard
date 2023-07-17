@@ -1,0 +1,13 @@
+.circle-chart-main{
+    position: relative;
+}
+.heading-circle{
+    position: absolute;
+    font-size: 30px;
+    top: 135px;
+    left: 136px;
+    color: #349daa;
+}
+.m-r-5{
+    margin-left: -30px !important;
+}

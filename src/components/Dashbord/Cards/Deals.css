@@ -1,0 +1,23 @@
+.section{
+    height: 106px !important;
+    overflow: hidden;
+}
+.profile-deals{
+    height: 30px;
+    width: 30px;
+    background-color: beige;
+    border-radius: 50%;
+    border: 0px solid black;
+    padding: 0px 9px;
+    align-content: center;
+    color: rgb(111, 100, 87);
+}
+.profile-deals b{
+    font-size: larger;
+}
+.deals-card-title{
+    font-size: small;
+}
+.deals-card-body{
+    font-size: smaller;
+}
